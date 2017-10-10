@@ -36,6 +36,7 @@ You'll find resources and references to:
 
 -----
 ### Tutorial
+* [ DZONE ] [Creating a REST Web Service With Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)
 * [ DZONE ] [Designing a Neural Network in Java From a Programmer's Perspective](https://dzone.com/articles/designing-a-neural-network-in-java)
 * [Intro to Redux with TypeScript and Angular 2](http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/)
 * [Java 8 Lambda Tutorial](http://www.dreamsyssoft.com/java-8-lambda-tutorial/index.php) 
