@@ -1,5 +1,10 @@
 # Kobe-List
-Make it swish like kobe with this list of interesting things to explore. Inspired by [`awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning), Inspired by [`awesome-php`](https://github.com/ziadoz/awesome-php)
+Make it swish like kobe with this list of interesting things to explore. Inspired by [`awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning), Inspired by [`awesome-php`](https://github.com/ziadoz/awesome-php).
+
+You'll find resources and references to:
+* Improve your coding skills, your machine learning knowledge
+* Prepare yourself to pass job interviews 
+* Simply begin in the programming world.
 #### Coding Skills
 
 
