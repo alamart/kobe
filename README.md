@@ -5,7 +5,8 @@ You'll find resources and references to:
 * Improve your coding skills, your machine learning knowledge
 * Prepare yourself to pass job interviews 
 * Simply begin in the programming world.
-#### Coding Skills
+-----
+### Coding Skills
 
 
 #### GIT
@@ -40,7 +41,7 @@ You'll find resources and references to:
 * [Java 8 Lambda Tutorial](http://www.dreamsyssoft.com/java-8-lambda-tutorial/index.php) 
 * [Neural Network tutorial](http://neuralnetworksanddeeplearning.com/)
 * [Flutter App](https://flutter.io/android-release/)
-
+-----
 ### Answer the question "WHY?"
 -----
 
