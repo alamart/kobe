@@ -22,6 +22,7 @@ You'll find resources and references to:
 * [ELITEDATASCIENCE] [All kinds of stuff to now about Machine Learning](https://elitedatascience.com/learn-machine-learning)
 * [Machine learning Datasets](https://elitedatascience.com/datasets)
 * [Recommended online courses about Machine Learning](https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e)
+* [ GITHUB ] [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 #### OpenSource Projects
 * [Google Open source Projects](https://opensource.google.com/projects/explore/featured)
 
