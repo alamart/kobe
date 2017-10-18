@@ -20,6 +20,7 @@ You'll find resources and references to:
 * [ DZONE ] [3 Machine Learning Algorithms You Need to Know (Regression, Decision trees, k-means)](https://dzone.com/articles/3-machine-learning-algorithms-you-need-to-know?edition=329502&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202017-10-04)
 * [ GITHUB ] [All Machine learning documentation](https://github.com/josephmisiti/awesome-machine-learning)
 * [ELITEDATASCIENCE] [All kinds of stuff to now about Machine Learning](https://elitedatascience.com/learn-machine-learning)
+* [Loïc Barrault's page](http://www-lium.univ-lemans.fr/~barrault/)
 * [Machine learning Datasets](https://elitedatascience.com/datasets)
 * [Recommended online courses about Machine Learning](https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e)
 * [ GITHUB ] [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
