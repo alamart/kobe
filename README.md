@@ -64,6 +64,7 @@ You'll find resources and references to:
 
 ### *Misc*
 
+* [Some machine learning applications](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * Humor : [Dilbert](http://dilbert.com/)
 * Learning : [Oreilly](https://www.oreilly.com/)
 
